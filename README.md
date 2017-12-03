@@ -1,7 +1,7 @@
 # online-retail-products-price-prediction
 * under construction *
 
-## Data
+## Data Viz
 
 https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
 
